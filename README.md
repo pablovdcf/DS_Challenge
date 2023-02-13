@@ -1,5 +1,5 @@
 # **DS_Challenge**
-[![Captura-de-pantalla-2023-02-13-143444.png](https://i.postimg.cc/JtVM6MxR/Captura-de-pantalla-2023-02-13-143444.png)](https://postimg.cc/fSKGk41P)
+[![Captura-de-pantalla-2023-02-13-143444.png](https://i.postimg.cc/JtVM6MxR/Captura-de-pantalla-2023-02-13-143444.png)]
 ## **KSchool Data Science Challenge**
 
 This repo has my solutions to the next exercices.
